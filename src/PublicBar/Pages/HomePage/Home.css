@@ -1,0 +1,68 @@
+section.Banner_Section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: #fff;
+    height: 100vh;
+    justify-content: center;
+    position: relative;
+}
+
+.Home_Page{
+    background-image: url("http://localhost:3000/static/media/HomeBanner.21b501e950d64f00297f.png");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: 100%;
+}
+
+.HS-Bnr-Title {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+section.Banner_Section.container .HS-Bnr-Title h1 {
+    font-size: 55px;
+    font-family: Larken-Medium;
+    text-align: left;
+    margin: 0;
+}
+
+section.Banner_Section.container .HS-Bnr-Title p {
+    margin: 0;
+    font-size: 20px;
+    text-align: left;
+    color: #ECECEC;
+    padding-right: 35%;
+    line-height: 1.7em;
+}
+
+section.Banner_Section.container .HS-Bnr-Title h1 > b.styles_typicalWrapper__1_Uvh {
+    font-weight: 500;
+}
+
+.Sticy-HS-Btn {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+}
+
+.Sticy-HS-Btn .btn-text{
+    display: flex;
+    cursor: pointer;
+    gap: 10px;
+    align-items: center;
+    color: #7D8288;
+}
+
+.Sticy-HS-Btn .icon-btn-text {
+    display: flex;
+    gap: 30px;
+}
+.Sticy-HS-Btn .icon-btn-text a > img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}

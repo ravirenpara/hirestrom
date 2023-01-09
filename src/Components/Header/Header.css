@@ -1,0 +1,57 @@
+.P_Header_block {
+    background-color: #0000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.P_Header_block .Menu_List ul.Menu_Ul_List {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    padding: auto;
+    margin: 0;
+}
+.P_Header_block .Menu_List ul.Menu_Ul_List li {
+    list-style: none;
+}
+.P_Header_block .Menu_List ul.Menu_Ul_List li a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #ecececd6;
+    font-weight: 400;
+}
+.P_Header_block .Menu_List ul.Menu_Ul_List li a:hover, .P_Header_block .Menu_List ul.Menu_Ul_List li a:focus {
+    color: #fff;
+}
+.P_Header_block .Menu_List ul.Menu_Ul_List li button {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+
+.P_Header_block .Menu_List ul.Menu_Ul_List li button a {
+    font-size: 16px;
+    font-family: 'Nanum Gothic';
+}
+.P_Header_block .Menu_List ul.Menu_Ul_List li button.Sign-up-btn {
+    padding: 10px 20px;
+    background-color: #86C441B2;
+}
+.Public_Header.container {
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 1% 0;
+    z-index: 99;
+}
+a.HS-Left-Mg {
+    padding-left: 35px;
+    border-left: 1px solid #ffffff75;
+}
+
+.link_is_.active {
+    color: #fff !important;
+}
