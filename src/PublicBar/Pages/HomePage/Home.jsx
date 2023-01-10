@@ -31,6 +31,7 @@ function HomePage() {
             Scroll Down
           </div>
           <div className='icon-btn-text'>
+          <i class="fa-duotone fa-hashtag"></i>
             <a href="#" target="_blank"><img src={FaceBook} alt="HireStrome FaceBook" /></a>
             <a href="https://www.instagram.com/" target="_blank"><img src={Instagram} alt="HireStrome Instagram" /></a>
             <a href="#" target="_blank"><img src={LinkedIn} alt="HireStrome LinkedIn" /></a>
