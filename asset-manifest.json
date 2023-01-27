@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hirestrom/static/css/main.0c5fb9cf.css",
+    "main.js": "/hirestrom/static/js/main.e38aa93c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/hirestrom/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/HomeBanner.png": "/hirestrom/static/media/HomeBanner.21b501e950d64f00297f.png",
+    "index.html": "/hirestrom/index.html",
+    "main.0c5fb9cf.css.map": "/hirestrom/static/css/main.0c5fb9cf.css.map",
+    "main.e38aa93c.js.map": "/hirestrom/static/js/main.e38aa93c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/hirestrom/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c5fb9cf.css",
+    "static/js/main.e38aa93c.js"
+  ]
+}
